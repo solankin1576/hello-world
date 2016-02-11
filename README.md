@@ -1,2 +1,1 @@
-# hello-world
-This is for Testing
+HI this is my first script in GitHub
